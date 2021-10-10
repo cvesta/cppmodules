@@ -1,10 +1,10 @@
-NAME = attack
+NAME = replace
 
 COMPILE = clang++
 
 FLAGS = -Wall -Wextra -Werror
 
-SRC = main.cpp HumanA.cpp HumanB.cpp Weapon.cpp
+SRC = main.cpp
 
 OBJS = $(SRC:.cpp=.o)
 
@@ -20,9 +20,9 @@ clean:
 
 fclean:	clean
 		$(REMOVE) $(NAME)
+		$(REMOVE) *.replace
 
 re: fclean all
 
 .PHONY:		all clean fclean re
-
 
