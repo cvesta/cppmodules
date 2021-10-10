@@ -39,10 +39,6 @@ void Karen::complain(std::string level)
 	for (int i = 0; i < 4; ++i)
 	{
 		if (level == arr[i])
-		{
-			std::cout << COLORIZE << level << COLOR_RESET <<
-			std::endl;
 			(this->*ptrArr[i])();
-		}
 	}
 }
