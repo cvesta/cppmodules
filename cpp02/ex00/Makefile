@@ -1,10 +1,10 @@
-NAME = brain
+NAME = MyFirstOrthodoxClass
 
 COMPILE = clang++
 
 FLAGS = -Wall -Wextra -Werror
 
-SRC = main.cpp
+SRC = main.cpp Fixed.cpp
 
 OBJS = $(SRC:.cpp=.o)
 
