@@ -6,8 +6,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcb4c8cf-f7f3-49e5-9e02-6bc03724aa40" name="Changes" comment="cpp00, 01 - done&#10;02ex00 - done&#10;02 in process">
-      <change afterPath="$PROJECT_DIR$/cpp02/ex01/main.cpp" afterDir="false" />
+    <list default="true" id="dcb4c8cf-f7f3-49e5-9e02-6bc03724aa40" name="Changes" comment="g">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,9 +36,9 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -58,7 +57,8 @@
       <workItem from="1634236803433" duration="79000" />
       <workItem from="1634236888812" duration="284000" />
       <workItem from="1634313171550" duration="3000" />
-      <workItem from="1634559056743" duration="3237000" />
+      <workItem from="1634559056743" duration="9680000" />
+      <workItem from="1634573689380" duration="1000" />
     </task>
     <task id="LOCAL-00001" summary="done cpp01">
       <created>1634231485909</created>
@@ -81,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634237100498</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="g">
+      <created>1634563325762</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1634563325762</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,7 +109,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="done cpp01" />
     <MESSAGE value="cpp00, 01 - done&#10;02ex00 - done&#10;02 in process" />
-    <option name="LAST_COMMIT_MESSAGE" value="cpp00, 01 - done&#10;02ex00 - done&#10;02 in process" />
+    <MESSAGE value="g" />
+    <option name="LAST_COMMIT_MESSAGE" value="g" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
